@@ -11,10 +11,14 @@
             "id": "aeab9e15645e508f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "sop/sop.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "sop"
             }
           }
         ]
@@ -164,7 +168,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fdf2f4233821fb73",
+  "active": "aeab9e15645e508f",
   "lastOpenFiles": [
     "cv/cv_20250720.pdf",
     "cv/cv.md",
