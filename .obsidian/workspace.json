@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "49b5156414bfd934",
+        "id": "bb4e0a8599216466",
         "type": "tabs",
         "children": [
           {
-            "id": "aeab9e15645e508f",
+            "id": "3466c79f316c9f0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sop/sop.md",
+                "file": "cv/cv.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "sop"
+              "title": "cv"
             }
           }
         ]
@@ -168,20 +168,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aeab9e15645e508f",
+  "active": "3466c79f316c9f0c",
   "lastOpenFiles": [
+    "cv/cv_20250721.pdf",
+    "cv/~WRD0002.tmp",
+    "cv/~WRD0000.tmp",
+    "cv/~$_20250721.docx",
+    "cv/cv_20250721.docx",
+    "cv/~WRL0001.tmp",
+    "cv/~$_20250720.docx",
+    "cv/~$v_base.docx",
     "cv/cv_20250720.pdf",
-    "cv/cv.md",
     "sop/sop.md",
+    "cv/cv.md",
     "README.md",
     "CV/CV.docx",
     "CV/~$문서1.docx",
-    "CV/~WRL0001.tmp",
-    "CV/~WRD0000.tmp",
-    "CV/문서1.docx",
     "CV/CV.md",
     "CV/CV.md",
-    "Welcome.md",
-    "CV"
+    "Welcome.md"
   ]
 }
